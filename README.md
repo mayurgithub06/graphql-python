@@ -1,4 +1,4 @@
-# graphql-python
+## graphql-python
 A Hacketnews project developed for the [How to GraphQL tutorial](https://www.howtographql.com/graphql-python/0-introduction/) using Python, Django and Graphene. Tested on Python 3.6.
 
 ## Installation and Usage
